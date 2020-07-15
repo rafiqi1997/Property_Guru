@@ -1,6 +1,14 @@
 # Introduction
 This project intents to scrap data from the links from https://www.propertyguru.com.my and store the data to MySQL database.
 
+# Required Python Module
+- time
+- jsonlib
+- python-csv
+- fake_useragent
+- selenium
+- mysql.connector
+- Flask
 
 # How to use
 
