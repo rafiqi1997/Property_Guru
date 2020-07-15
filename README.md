@@ -20,7 +20,7 @@ This project intents to scrap data from the links from https://www.propertyguru.
   ![alt text](https://github.com/rafiqi1997/Property_Guru/blob/master/Images/link.PNG)
   
 
-(3) Then run the web.scraper.py file to scrap the data. 60 seconds delay is employed when the browser is started for the first time to finish the Captcha test.
+(3) Make sure the geckodriver.exe is in the right path. Then run the web.scraper.py file to scrap the data. 60 seconds delay is employed when the browser is started for the first time to finish the Captcha test.
 
 (4) Open the data.json file to view the scraped data from the website.
 
