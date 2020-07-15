@@ -9,7 +9,7 @@ This project intents to scrap data from the links from https://www.propertyguru.
 (2) Copy the link of propertis from  https://www.propertyguru.com.my and paste the links in the link.csv file according to csv format shown below
 
 
-  ![alt text](https://github.com/rafiqi1997/Property_Guru/blob/master/link.PNG)
+  ![alt text](https://github.com/rafiqi1997/Property_Guru/blob/master/Images/link.PNG)
   
 
 (3) Then run the web.scraper.py file to scrap the data.
@@ -20,13 +20,13 @@ This project intents to scrap data from the links from https://www.propertyguru.
 (5) Run the requests_and_post.py and copy the local host link, '127.0.0.1:5000/postjson' into Postman API testing tool.
 
 
-   ![alt_text](https://github.com/rafiqi1997/Property_Guru/blob/master/postman.PNG)
+   ![alt_text](https://github.com/rafiqi1997/Property_Guru/blob/master/Images/postman.PNG)
    
 
 (6) Copy the whole json data from data.sjon and paste it in the Postman apps to send the data to MySQL database
 
 
-   ![alt_text](https://github.com/rafiqi1997/Property_Guru/blob/master/data.PNG)
+   ![alt_text](https://github.com/rafiqi1997/Property_Guru/blob/master/Images/data.PNG)
    
 
 (7) To view the data from MySQL in browser, visit the landing page at localhost url, https //127.0.0.1:500/ on web browser.
