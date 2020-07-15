@@ -3,10 +3,10 @@ This project intents to scrap data from the links from https://www.propertyguru.
 
 # Required Python Module
 - time
-- jsonlib
-- python-csv
+- jsonlib version 2.09
+- python-csv version 1.0
 - fake_useragent
-- selenium
+- selenium version 3.141.0
 - mysql.connector
 - Flask
 
