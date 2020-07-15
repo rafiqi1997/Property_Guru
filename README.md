@@ -33,3 +33,5 @@ This project intents to scrap data from the links from https://www.propertyguru.
    
 
 (7) To view the data from MySQL in browser, visit the landing page at localhost url, https //127.0.0.1:500/ on web browser.
+
+   ![alt_text](https://github.com/rafiqi1997/Property_Guru/blob/master/Images/landing_page.PNG)
